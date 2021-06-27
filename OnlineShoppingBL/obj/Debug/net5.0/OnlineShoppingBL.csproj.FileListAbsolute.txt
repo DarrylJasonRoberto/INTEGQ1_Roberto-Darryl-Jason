@@ -1,0 +1,15 @@
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\bin\Debug\net5.0\OnlineShoppingBL.deps.json
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\bin\Debug\net5.0\OnlineShoppingBL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\bin\Debug\net5.0\ref\OnlineShoppingBL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\bin\Debug\net5.0\OnlineShoppingBL.pdb
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.csprojAssemblyReference.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.AssemblyInfoInputs.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.AssemblyInfo.cs
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.csproj.CoreCompileInputs.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\ref\OnlineShoppingBL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.pdb
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\bin\Debug\net5.0\Online ShoppingDL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\bin\Debug\net5.0\Online ShoppingDL.pdb
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingBL\obj\Debug\net5.0\OnlineShoppingBL.csproj.CopyComplete

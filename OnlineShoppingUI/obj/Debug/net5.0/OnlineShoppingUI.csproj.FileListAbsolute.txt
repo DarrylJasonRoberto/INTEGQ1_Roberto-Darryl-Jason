@@ -1,0 +1,21 @@
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.csprojAssemblyReference.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.AssemblyInfoInputs.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.AssemblyInfo.cs
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.csproj.CoreCompileInputs.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingUI.exe
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingUI.deps.json
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingUI.runtimeconfig.json
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingUI.runtimeconfig.dev.json
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingUI.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\ref\OnlineShoppingUI.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingUI.pdb
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingBL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\OnlineShoppingBL.pdb
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.csproj.CopyComplete
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\ref\OnlineShoppingUI.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.pdb
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\obj\Debug\net5.0\OnlineShoppingUI.genruntimeconfig.cache
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\Online ShoppingDL.dll
+C:\Users\Darryl27\source\repos\INTEGQ1\OnlineShoppingUI\bin\Debug\net5.0\Online ShoppingDL.pdb
